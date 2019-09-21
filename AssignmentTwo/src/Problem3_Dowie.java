@@ -12,7 +12,7 @@ public class Problem3_Dowie {
 	           }
 	       }
 	       int numPeople;
-	       System.out.println("Please rate each category from 1(least important to 10(most important).");
+	       System.out.println("Please rate each category from 1(least important) to 10(most important).");
 	       System.out.print("Please enter the amount of people that is going to rate: ");
 	       Scanner scnr = new Scanner(System.in);
 	       numPeople=scnr.nextInt();
